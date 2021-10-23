@@ -1,3 +1,3 @@
 # jenkins-maven
 
-credits to  https://hackr.io/blog/java-projects
+credits to  https://hackr.io/blog/java-projects and DevOps Hint Youtube Channel 
